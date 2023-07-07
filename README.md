@@ -1,5 +1,5 @@
 # node-mssql-registration-login-api
 
-Node.js + MS SQL Server - Simple API for Authentication, Registration and User Management
+NODE JS PDF API's for PDF managements 
 
 Documentation coming soon!!
